@@ -1,0 +1,24 @@
+{
+  "name": "menu-digital",
+  "version": "1.0.0",
+  "description": "API simple para menu de un restaurante",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "restaurant"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
